@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MariaPonomarets/simpleGatsby.github.io/issues"
   },
-  "homepage": "https://github.com/MariaPonomarets/simpleGatsby.github.io#readme"
+  "homepage": "https://github.com/MariaPonomarets/simpleGatsby.github.io#readme",
+  "dependencies": {
+    "gatsby": "^1.0.0-beta.2",
+    "gatsby-link": "^1.0.0-beta.2"
+  }
 }
